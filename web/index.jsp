@@ -11,7 +11,7 @@
     <title>Drink Cheers!</title>
 </head>
 <body>
-    <form action="/action_page.php" method="post">
+    <form action="/myServlet.java" method="post">
         <label>Login</label>
         <input type="text">
         <br><br>
