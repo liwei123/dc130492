@@ -4,7 +4,9 @@ import java.io.*;
 import javax.servlet.*;
 import javax.servlet.http.*;
 
-public class HelloServlet extends HttpServlet {
+//https://www.ntu.edu.sg/home/ehchua/programming/java/JavaServlets.html
+
+public class myServlet extends HttpServlet {
     @Override
     public void doGet(HttpServletRequest request, HttpServletResponse response)
             throws IOException, ServletException {
